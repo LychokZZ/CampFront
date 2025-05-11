@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CampFront/static/css/main.9501d982.css",
+    "main.js": "/CampFront/static/js/main.7bd5ad19.js",
+    "index.html": "/CampFront/index.html",
+    "main.9501d982.css.map": "/CampFront/static/css/main.9501d982.css.map",
+    "main.7bd5ad19.js.map": "/CampFront/static/js/main.7bd5ad19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9501d982.css",
+    "static/js/main.7bd5ad19.js"
+  ]
+}
